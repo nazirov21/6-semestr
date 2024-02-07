@@ -12,3 +12,9 @@ commit - сохранение
 7.   Отправить файлы
    
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/d8f14843-540f-4de3-9df6-166d189512fe)
+
+
+Разиница в способе передачи данных
+Fifo - first in first out
+
+
