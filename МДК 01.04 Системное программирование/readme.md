@@ -89,6 +89,16 @@ ls -la
 ![image](https://github.com/Hottabik/6semestr/assets/113089655/729bb147-4503-48f0-b1c4-33a5a182b253)
 Файлам присваивается уникальный номер (инод), посмотреть командой i1
 Жесткие ссылки имеют тот же номер , что и исходный файл и это можно использовать , чтобы найти все жесткие ссылки.
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/56e41bdd-c0a4-4ab9-8bcd-0a77207cce86)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/ddd394d4-7f32-43ca-bc8f-4fb0b1ceaa31)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/cb83ab10-b881-4dab-8662-1c756488f934)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/9644f9b4-4208-4186-907b-5fb8daf9cdeb)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/9d296dab-27a7-4c8d-a098-864483052310)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/77415e51-7a62-49c9-96aa-d114899d5499)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/10c33502-e789-49c9-a957-540bd4d58bef)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/290ca147-98a5-4c2e-97ec-cb611a8188c4)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/6daf9a01-59f7-4c52-8976-0d25a1e50bb7)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/2d7149ab-706e-4a0c-bd06-ea53663691fe)
 
 
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/ebe97be8-ab4c-4792-807b-23e418509f23)
