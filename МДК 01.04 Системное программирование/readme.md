@@ -93,6 +93,7 @@ ls -la
 
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/ebe97be8-ab4c-4792-807b-23e418509f23)
 
+
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/7492cfc6-6965-4f58-af49-d829dc955135)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/add51f26-4c62-404e-a2a9-4cbb968e56de)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/6ca74f47-80e0-4566-a094-ab72cac48dc5)
