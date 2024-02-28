@@ -93,3 +93,14 @@ ls -la
 
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/ebe97be8-ab4c-4792-807b-23e418509f23)
 
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/7492cfc6-6965-4f58-af49-d829dc955135)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/add51f26-4c62-404e-a2a9-4cbb968e56de)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/6ca74f47-80e0-4566-a094-ab72cac48dc5)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/47749846-de3a-4585-82a1-702469df34e7)
+Red os
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/80ab8ac7-543d-40b3-8d5d-0ce9035d3f2e)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/7bdb0033-ab5b-4443-9b1d-9a90a52caad0)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/343a5d10-4740-4c83-9b22-0fb9c1bfd172)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/a2c4ab56-3627-43e2-b468-24d39bb4ee83)
+
+
