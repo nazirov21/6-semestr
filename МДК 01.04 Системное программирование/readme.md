@@ -115,4 +115,9 @@ Red os
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/343a5d10-4740-4c83-9b22-0fb9c1bfd172)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/a2c4ab56-3627-43e2-b468-24d39bb4ee83)
 
+4 тема
+
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/74596d4c-c8a5-4dd0-9ea6-f0a43f058a09)
+
+
 
