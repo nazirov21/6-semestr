@@ -116,8 +116,17 @@ Red os
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/a2c4ab56-3627-43e2-b468-24d39bb4ee83)
 
 4 тема
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/3a8692f0-d46c-4fcd-90a5-8b874596d7fb)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/04e0863d-dc38-4c76-b06c-a16057e81034)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/0b9026f4-0a86-45fb-b47a-3e08328a66c1)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/8367cde9-7c46-4b4d-8ab0-930c914aec7f)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/0bcff00d-5580-454a-8569-607cb9e293a1)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/719369fe-4997-43a0-9775-b7247396600a)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/0ced67ba-eb26-4d91-9364-30e483a195cd)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/31893582-7f5a-4c97-a563-0f318bedef2f)
+![image](https://github.com/nazirov21/6-semestr/assets/113089463/897fe955-4e88-43ab-b05a-e0befefa92ca)
 
-![image](https://github.com/nazirov21/6-semestr/assets/113089463/74596d4c-c8a5-4dd0-9ea6-f0a43f058a09)
+
 
 5 тема
 Атрибуты процесса 
