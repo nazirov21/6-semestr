@@ -122,7 +122,6 @@ Red os
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/8367cde9-7c46-4b4d-8ab0-930c914aec7f)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/0bcff00d-5580-454a-8569-607cb9e293a1)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/719369fe-4997-43a0-9775-b7247396600a)
-![image](https://github.com/nazirov21/6-semestr/assets/113089463/0ced67ba-eb26-4d91-9364-30e483a195cd)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/31893582-7f5a-4c97-a563-0f318bedef2f)
 ![image](https://github.com/nazirov21/6-semestr/assets/113089463/897fe955-4e88-43ab-b05a-e0befefa92ca)
 
